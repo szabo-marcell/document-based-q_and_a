@@ -1,0 +1,6 @@
+Az elektron negatív részecske.
+Az atommag pozitív töltésű az őket alkotó protonok miatt.
+A neutronok semleges töltésűek.
+A pozitronok tömege megegyezik az elektronokéval.
+A pozitron töltése ugyanúgy pozitív, mint a protoné.
+
